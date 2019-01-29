@@ -6,13 +6,21 @@ Pour étudiant:
 
 Avant l'inscription/connexion:
 - Système de connexion/inscription. (Nom,Prénom,Centre) & (Mot de passe avec une maj)
-- Systèmes de rank (membres BDE)
-- Boite à idée (Idées d'activité)
+
 Après connexion:
 - Page pour mettre les activités et s'y inscrire.
 - Système de vote.
 - Ajouter des photos et les voir (événements passés).
+- Commenter les événements passés.
+- Recevoir des notifications après approuvement d'idée.
+- Proposer une idée.
 
+Salariés du CESI :
+- Signaler une image.
+- Télécharger toutes les images en un clic.
 
 Membres du BDE:
-- Créer un événement (Nom, Image, Date), ponctuelle ou récurrente, payante ou gratuite.
+- Approuver un événement (Nom, Image, Date), ponctuelle ou récurrente, payante ou gratuite.
+- Ajouter/Supprimer un produit de la boutique.
+- Supprimer un événements.
+- Supprimer une photo.
