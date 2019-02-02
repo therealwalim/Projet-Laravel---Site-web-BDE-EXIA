@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill:#FFFFFF;}
+	.st2{mask:url(#cesi_logo_general_nb-b_2_);fill:#FFFFFF;}
+	.st3{font-family:'Roboto-Black';}
+	.st4{font-size:164.2112px;}
+	.st5{letter-spacing:4;}
+</style>
+<g>
+	<g transform="translate(0 32)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="131" y="259.8" width="590" height="590.2">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="131" y="259.8" width="590" height="590.2" id="cesi_logo_general_nb-b_2_">
+			<g class="st0">
+				<polygon id="cesi_logo_general_nb-a_2_" class="st1" points="131.3,259.8 721,259.8 721,850 131.3,850 				"/>
+			</g>
+		</mask>
+		<polyline class="st2" points="186.5,259.8 131,259.8 131,850 721,850 721,794.5 186.5,794.5 186.5,259.8 		"/>
+	</g>
+	<polyline class="st1" points="390.9,143.6 390.9,291.7 721,291.7 721,620.6 869.8,620.6 869.8,143.6 390.9,143.6 	"/>
+	<text transform="matrix(1 0 0 1 290.5244 611.2305)" class="st1 st3 st4 st5">BDE</text>
+</g>
+</svg>

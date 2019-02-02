@@ -1,0 +1,34 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.Inscription {
+	margin-left: 30px;
+	position: relative;
+	overflow: hidden;
+}
+
+.Inscription h3 {
+	margin-top: 70px;
+}
+.form {
+	margin-top: 100px;
+}
+
+footer {
+	padding: 10px;
+	background-color: black;
+	text-align: center;
+	justify-content: center;
+	color: white;
+	text-decoration: none;
+}
+
+footer a {
+	margin-right: 20px;
+	text-decoration: none;
+}
+footer a:hover {
+	cursor: pointer;
+}
