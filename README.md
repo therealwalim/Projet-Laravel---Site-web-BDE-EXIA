@@ -1,5 +1,5 @@
 # BDE-EXIA-Website-2019
-Projet web qui consiste à créer le site internet de la BDE de l'eXia
+Projet web qui consiste à créer le site internet du BDE de l'eXia
 
 ## Tâches à réaliser
 Pour étudiant:
